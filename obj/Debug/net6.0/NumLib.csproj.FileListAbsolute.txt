@@ -1,0 +1,17 @@
+C:\Users\patri\source\repos\NumLib\NumLib\bin\Debug\net6.0\NumLib.exe
+C:\Users\patri\source\repos\NumLib\NumLib\bin\Debug\net6.0\NumLib.deps.json
+C:\Users\patri\source\repos\NumLib\NumLib\bin\Debug\net6.0\NumLib.runtimeconfig.json
+C:\Users\patri\source\repos\NumLib\NumLib\bin\Debug\net6.0\NumLib.dll
+C:\Users\patri\source\repos\NumLib\NumLib\bin\Debug\net6.0\ref\NumLib.dll
+C:\Users\patri\source\repos\NumLib\NumLib\bin\Debug\net6.0\NumLib.pdb
+C:\Users\patri\source\repos\NumLib\NumLib\obj\Debug\net6.0\NumLib.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\NumLib\NumLib\obj\Debug\net6.0\NumLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\NumLib\NumLib\obj\Debug\net6.0\NumLib.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\NumLib\NumLib\obj\Debug\net6.0\NumLib.AssemblyInfo.cs
+C:\Users\patri\source\repos\NumLib\NumLib\obj\Debug\net6.0\NumLib.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\NumLib\NumLib\obj\Debug\net6.0\NumLib.dll
+C:\Users\patri\source\repos\NumLib\NumLib\obj\Debug\net6.0\ref\NumLib.dll
+C:\Users\patri\source\repos\NumLib\NumLib\obj\Debug\net6.0\NumLib.pdb
+C:\Users\patri\source\repos\NumLib\NumLib\obj\Debug\net6.0\NumLib.genruntimeconfig.cache
+C:\Users\patri\source\repos\NumLib\NumLib\bin\Debug\net6.0\NumberClass.dll
+C:\Users\patri\source\repos\NumLib\NumLib\obj\Debug\net6.0\NumLib.csproj.CopyComplete
